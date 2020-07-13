@@ -2,7 +2,7 @@
 
 A simple snake game with pygame.
 
-![Sample](Sample.png)
+![Sample](https://github.com/Vinicyus/Snake-Game/blob/master/sample.PNG)
 
 ## Getting Started
 
