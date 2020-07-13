@@ -2,6 +2,7 @@
 
 A simple snake game with pygame.
 
+![Sample](Sample.png)
 
 ## Getting Started
 
